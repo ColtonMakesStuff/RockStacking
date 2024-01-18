@@ -2,8 +2,10 @@
 I would like to use js to make a rock stacking game 
 
 this is going to be done by slowly chipping away at building  a js physics engine from scratch.
+
 WHAAAT???? FROM SCRATCH? WHY??? 
-well physics are interesting so even if it takes a long time and is difficult I want to learn more about it, the stacking game isnt really the goal, the learing is.
+
+well physics are interesting so even if it takes a long time and is difficult I want to learn more about it, the stacking game isnt really the goal, the learning is.
 
 what do I think I need
 
